@@ -407,7 +407,342 @@
     <desc lang="pt">Tadeu Schmidt comanda os participantes da 26ª edição do reality show da Globo.</desc>
     <category lang="pt">TV</category>
   </programme>
-  <programme start="20260113233500 -0300" stop="20260114003500 -0300" channel="TV Bahia HD">
+  <programme start="20260113233500 -0300" stop="20260114004000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114004000 -0300" stop="20260114012000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado lamenta não ter conseguido o dinheiro de seu trabalho na festa. Naiane comemora ter seu vídeo exposto no show de João Raul. Cinara pede perdão a Nora. Zilá acusa Alaorzinho de nunca ter esquecido Janete. Huguinho ajuda Zuzu, Janete e Agrado a consertar a Caravana. Dejair confronta João Raul por causa de Loreta. João Raul e Agrado desabafam com Lucas e Janete, respectivamente. Zilá pede ajuda a Nora para salvar seu casamento. Zilá planeja trabalhar com sua marca de moda, e conversa com Esteban e Eva. Naiane comemora a declaração de João Raul. Ronei repreende João Raul, que exige tomar as rédeas de sua carreira. Alaor aprova a criação de Zilá para a marca Alô, Country. João Raul convida Naiane para participar do clipe de sua música.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114012000 -0300" stop="20260114021000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Comédia Na Madruga I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114021000 -0300" stop="20260114040000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Corujão I - Predestinado - Arigó e o Espírito do Dr. Fritz</title>
+    <desc lang="pt">Por meio do espírito de Dr. Fritz, médico alemão falecido durante a Primeira Guerra Mundial, José Arigó torna-se uma esperança de cura para milhões de pessoas ao redor do mundo. Ele é alvo de críticas por parte dos mais céticos mas, com o apoio da esposa, consegue salvar inúmeras vidas por intermédio da cirurgia espiritual.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114040000 -0300" stop="20260114060000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Tiago Scheuer.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114060000 -0300" stop="20260114083000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">No Jornal da Manhã, você começa o dia bem informado sobre tudo o que é importante em Salvador e em todas as regiões do estado.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114083000 -0300" stop="20260114093000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114093000 -0300" stop="20260114103500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114103500 -0300" stop="20260114114500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114114500 -0300" stop="20260114130000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+    <desc lang="pt">O Bahia Meio Dia traz as principais notícias do dia, ao vivo, onde quer que o fato aconteça.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114130000 -0300" stop="20260114132500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As histórias, os personagens, os jogos, os lances e todos elementos dos esportes contados de um jeito leve e informativo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114132500 -0300" stop="20260114144500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114144500 -0300" stop="20260114152500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Edição Especial - Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114152500 -0300" stop="20260114170500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Sessão da Tarde - Os Croods 2: Uma Nova Era</title>
+    <desc lang="pt">Em busca de um habitat mais seguro, a família pré-histórica Crood descobre um paraíso isolado que atende a todas as suas necessidades. Infelizmente, eles também devem aprender a viver com os Bettermans, uma família que está alguns degraus acima dos Croods na escada evolutiva.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114170500 -0300" stop="20260114180500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo, interpretada por Regina Duarte, e a socialite falida Laurinha Figueroa, vivida por Glória Menezes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114180500 -0300" stop="20260114184500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Samir, Picolé e Quitéria se decepcionam com Candinho por ter beijado Doris, sem saber que se trata de Dita. Lourival convence Ernesto a lançar o disco de Doris River na rádio. Felícia ouve quando Zulma afirma que adotará Samir, e conta para as crianças. Túlio diz a Estela que deixará São Paulo. Celso acusa Ernesto de ter atentado contra a vida de Estela, e exige que ele se afaste da cidade. Olímpia convida Adamo/Margarida para jantar. Quinzinho parte com Cunegundes para São Paulo, sem saber que Maria Pureza está escondida em seu carro. Míriam passa mal. Para defender Candinho, Dita revela a todos na mansão que ela é Doris River. Ernesto afirma a Sandra que eles precisam se livrar de Celso.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114184500 -0300" stop="20260114191500 -0300" channel="TV Bahia HD">
+    <title lang="pt">BATV</title>
+    <desc lang="pt">O BATV apresenta a análise do que foi notícia no dia, o impacto na vida dos baianos e os destaques do esporte.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114191500 -0300" stop="20260114200000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado lamenta não ter conseguido o dinheiro de seu trabalho na festa. Naiane comemora ter seu vídeo exposto no show de João Raul. Cinara pede perdão a Nora. Zilá acusa Alaorzinho de nunca ter esquecido Janete. Huguinho ajuda Zuzu, Janete e Agrado a consertar a Caravana. Dejair confronta João Raul por causa de Loreta. João Raul e Agrado desabafam com Lucas e Janete, respectivamente. Zilá pede ajuda a Nora para salvar seu casamento. Zilá planeja trabalhar com sua marca de moda, e conversa com Esteban e Eva. Naiane comemora a declaração de João Raul. Ronei repreende João Raul, que exige tomar as rédeas de sua carreira. Alaor aprova a criação de Zilá para a marca Alô, Country. João Raul convida Naiane para participar do clipe de sua música.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114200000 -0300" stop="20260114203500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114203500 -0300" stop="20260114212000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Paulinho ajuda o pastor Albérico a levar Jorginho para o posto médico. Arminda sugere que Zenilda possa estar investigando Ferette. Zenilda diz a Lorena que já sabia do sentimento da filha por Juquinha. Edilberto conta a Ferette que viu Zé Maria com Paulinho. Paulinho conta a Juquinha que descobriu que Feliciano compra obra de arte roubada e negocia com Kasper. Com a visita de Paulinho, Feliciano fica sabendo que a escultura As Três Graças foi tirada da casa de Arminda. Mirinho ensina Raul a pedir dinheiro na rua. Raul descobre que Mirinho roubou seu celular. Arminda vê o filho brigando de dentro do carro e sai para apartar a briga.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114212000 -0300" stop="20260114233000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Libertadores, a Copa do Brasil e mais.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114233000 -0300" stop="20260114235000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Big Brother Brasil 26</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 26ª edição do reality show da Globo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260114235000 -0300" stop="20260115001500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115001500 -0300" stop="20260115010000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Naiane comemora o convite de João Raul, e Alaorzinho repreende a filha. Janete, Zuzu e Agrado têm um novo prejuízo com a Caravana. Ronei vibra com a possibilidade de uma parceria de negócios com o Grupo Alaor. Agrado recusa a aproximação de Huguinho, e Janete apoia a filha. Naiane promete se vingar de Talita. Zilá lembra de quando se uniu a Jean Carlos para afastar Janete de Alaorzinho. Alaor distribui o comando das empresas do Grupo Alaor. Zuzu aconselha Janete a revelar a história de Agrado. Olga repreende Eduarda na lanchonete. Agrado conhece Leandro. João Raul chega à mansão dos Amaral e pergunta por Naiane. Para evitar Huguinho, Agrado beija Leandro.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115010000 -0300" stop="20260115013500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Comédia Na Madruga I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115013500 -0300" stop="20260115025500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Corujão I - Noites de Alface</title>
+    <desc lang="pt">Depois de presenciar a morte de sua esposa Ada, o rabugento Otto volta a ter problemas para dormir sem o seu remédio natural: um chá de alface que a mulher preparava todas as noites. Sozinho e cansado, sua única opção é observar o cotidiano de seus peculiares vizinhos, mas logo sua participação começa a ficar mais interativa do que o esperado.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115025500 -0300" stop="20260115040000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Corujão II - Escola de Quebrada</title>
+    <desc lang="pt">Em Escola da Quebrada, Luan é um jovem estudante de escola pública da Zona Leste de São Paulo que, cansado de sempre ser excluído dos grupinhos e ser invisível aos olhos de Camila, quer ser respeitado e popular. Na tentativa de fazer parte de algum grupo, Luan consegue fazer o oposto de conquistar a amizade de alguém, o que até coloca em risco o amado campeonato de futsal da escola. Para fugir dessa bagunça, ele vai precisar da ajuda de seus amigos Rayanne e Deivid para encontrar uma maneira de salvar o campeonato e obter a tão desejada atenção de Camila.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115040000 -0300" stop="20260115060000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Tiago Scheuer.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115060000 -0300" stop="20260115083000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">No Jornal da Manhã, você começa o dia bem informado sobre tudo o que é importante em Salvador e em todas as regiões do estado.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115083000 -0300" stop="20260115093000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115093000 -0300" stop="20260115103500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115103500 -0300" stop="20260115114500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115114500 -0300" stop="20260115130000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+    <desc lang="pt">O Bahia Meio Dia traz as principais notícias do dia, ao vivo, onde quer que o fato aconteça.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115130000 -0300" stop="20260115132500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As histórias, os personagens, os jogos, os lances e todos elementos dos esportes contados de um jeito leve e informativo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115132500 -0300" stop="20260115144500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115144500 -0300" stop="20260115152500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Edição Especial - Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115152500 -0300" stop="20260115170500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Sessão da Tarde - O Segredo: Ouse Sonhar</title>
+    <desc lang="pt">Uma viúva com três filhos contrata um trabalhador manual para consertar sua casa durante uma grande tempestade. Quando não está fazendo reparos domésticos, ele compartilha sua filosofia de acreditar no poder do universo para entregar o que queremos.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115170500 -0300" stop="20260115182500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo, interpretada por Regina Duarte, e a socialite falida Laurinha Figueroa, vivida por Glória Menezes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115182500 -0300" stop="20260115191000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Ernesto exige que Sandra se decida entre ele ou Celso. Haydée reencontra Janete, que a acusa de querer a herança de seu pai. Ernesto invade o dancing e assedia Mirtes, sendo expulso por Vermelho e Tamires. Doris River concede uma entrevista falsa à rádio, e Dita e Candinho se revoltam. Túlio se despede de Estela, e os dois trocam declarações de amor, observados por Celso. Candinho e Dita confrontam Lourival. Zé dos Porcos não consegue ter sua primeira noite de amor com Maria Divina. Anacleto avisa a Jocasta que Pureza sumiu. Maria Pureza encontra Zenaide. Celso dá um ultimato em Ernesto.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115191000 -0300" stop="20260115194000 -0300" channel="TV Bahia HD">
+    <title lang="pt">BATV</title>
+    <desc lang="pt">O BATV apresenta a análise do que foi notícia no dia, o impacto na vida dos baianos e os destaques do esporte.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115194000 -0300" stop="20260115203000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Naiane comemora o convite de João Raul, e Alaorzinho repreende a filha. Janete, Zuzu e Agrado têm um novo prejuízo com a Caravana. Ronei vibra com a possibilidade de uma parceria de negócios com o Grupo Alaor. Agrado recusa a aproximação de Huguinho, e Janete apoia a filha. Naiane promete se vingar de Talita. Zilá lembra de quando se uniu a Jean Carlos para afastar Janete de Alaorzinho. Alaor distribui o comando das empresas do Grupo Alaor. Zuzu aconselha Janete a revelar a história de Agrado. Olga repreende Eduarda na lanchonete. Agrado conhece Leandro. João Raul chega à mansão dos Amaral e pergunta por Naiane. Para evitar Huguinho, Agrado beija Leandro.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115203000 -0300" stop="20260115212000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115212000 -0300" stop="20260115222500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Mirinho foge diante da ameaça de Arminda de chamar a polícia. Raul tenta falar com Joélly. Júnior fica desconfortável quando Kasper e João Rubens falam com ele sobre As Três Graças. Juquinha e Paulinho planejam o aniversário do delegado Jairo. Viviane recebe flores de Leonardo. Márcia recebe vídeos e fotos do marido com Morena. Ferette acusa Zenilda de não ter cuidado da família, e confronta Lorena sobre Juquinha. Joélly e Raul se abraçam emocionados e são flagrados por Gerluce, que acaba concluindo que o filho de sua patroa é o pai de sua neta.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115222500 -0300" stop="20260115232500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Big Brother Brasil 26</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 26ª edição do reality show da Globo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260115232500 -0300" stop="20260116003500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116003500 -0300" stop="20260116012000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia é uma cantora e compositora talentosa que batalha para conquistar uma carreira de sucesso no universo da música sertaneja. Novela de Izabel de Oliveira e Maria Helena Nascimento.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116012000 -0300" stop="20260116015000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Comédia Na Madruga I</title>
+    <desc lang="pt">Exibição dos melhores momentos do Vai Que Cola.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116015000 -0300" stop="20260116032000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Corujão I - Vai Que Cola - O Filme</title>
+    <desc lang="pt">Depois de sofrer um golpe, Valdomiro se muda para a pensão da Dona Jô. Quando ele recupera sua cobertura no Leblon, tem que levar junto todos os moradores da pensão.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116032000 -0300" stop="20260116040000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Corujão II - Pedro Coelho 2: O Fugitivo</title>
+    <desc lang="pt">Bea, Thomas e os coelhos criaram uma família improvisada, mas apesar de seus melhores esforços, Pedro não parece se abalar com sua reputação travessa. Aventurando-se para além do jardim, Pedro encontra-se em um mundo onde suas travessuras não são mais tão admiradas. E quando sua família arrisca tudo para procurá-lo, ele deve decidir que tipo de coelho ele quer ser.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116040000 -0300" stop="20260116060000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Tiago Scheuer.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116060000 -0300" stop="20260116083000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal da Manhã</title>
+    <desc lang="pt">No Jornal da Manhã, você começa o dia bem informado sobre tudo o que é importante em Salvador e em todas as regiões do estado.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116083000 -0300" stop="20260116093000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116093000 -0300" stop="20260116103500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116103500 -0300" stop="20260116114500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116114500 -0300" stop="20260116130000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Bahia Meio Dia</title>
+    <desc lang="pt">O Bahia Meio Dia traz as principais notícias do dia, ao vivo, onde quer que o fato aconteça.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116130000 -0300" stop="20260116132500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">As histórias, os personagens, os jogos, os lances e todos elementos dos esportes contados de um jeito leve e informativo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116132500 -0300" stop="20260116144500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116144500 -0300" stop="20260116152500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Edição Especial - Terra Nostra</title>
+    <desc lang="pt">Os jovens italianos Matteo e Giuliana se apaixonam em um navio imigrante. Ao aportarem no Brasil, são separados e passam a lutar para permanecerem juntos. Novela de Benedito Ruy Barbosa.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116152500 -0300" stop="20260116170500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Sessão da Tarde - O Bom Filho À Casa Torna</title>
+    <desc lang="pt">Roscoe Jenkins, famoso apresentador de talk show, volta para casa para participar da comemoração das bodas de ouro de seus pais. Foram dez anos longe da Geórgia e o reencontro não é nada fácil, pois ninguém o leva a sério.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116170500 -0300" stop="20260116182500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Vale a Pena Ver de Novo - Rainha da Sucata</title>
+    <desc lang="pt">Ambientada em São Paulo, a história retrata o universo dos novos-ricos e da decadente elite paulista, explorando o contraste e a tensão entre a emergente Maria do Carmo, interpretada por Regina Duarte, e a socialite falida Laurinha Figueroa, vivida por Glória Menezes.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116182500 -0300" stop="20260116191000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Êta Mundo Melhor!</title>
+    <desc lang="pt">Nas novas aventuras, Candinho vive na capital paulista, sempre ao lado do fiel amigo, o burro Policarpo. Apesar da riqueza que o cerca, ele vai enfrentar uma nova saga: a procura pelo filho perdido. Novela criada e escrita por Walcyr Carrasco e Mauro Wilson.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116191000 -0300" stop="20260116194000 -0300" channel="TV Bahia HD">
+    <title lang="pt">BATV</title>
+    <desc lang="pt">O BATV apresenta a análise do que foi notícia no dia, o impacto na vida dos baianos e os destaques do esporte.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116194000 -0300" stop="20260116203000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Coração Acelerado</title>
+    <desc lang="pt">Agrado Garcia é uma cantora e compositora talentosa que batalha para conquistar uma carreira de sucesso no universo da música sertaneja. Novela de Izabel de Oliveira e Maria Helena Nascimento.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116203000 -0300" stop="20260116212000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116212000 -0300" stop="20260116222500 -0300" channel="TV Bahia HD">
+    <title lang="pt">Três Graças</title>
+    <desc lang="pt">Gerluce, a mãe Lígia e a filha Joélly dividem o mesmo destino: a gravidez solo na adolescência. A vida dessas três mulheres, moradoras de Sâo Paulo, é cheia de desafios, mas também esperança. Novela de Aguinaldo Silva, Virgílio Silva e Zé Dassilva.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116222500 -0300" stop="20260116230000 -0300" channel="TV Bahia HD">
+    <title lang="pt">Big Brother Brasil 26</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 26ª edição do reality show da Globo.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116230000 -0300" stop="20260116234500 -0300" channel="TV Bahia HD">
+    <title lang="pt">The Castaways - Isolados</title>
+    <desc lang="pt">As irmãs Erin e Lori aproveitavam férias perfeitas até uma discussão mudar tudo, e Lori embarcar sozinha em um voo que desaparece sem deixar pistas. Meses depois, um sinal inesperado reacende a esperança: o cartão de crédito de Lori é usado em uma vila remota nas ilhas Fiji, e imagens revelam o piloto do avião vivo. Dedicada a descobrir a verdade, Erin decide partir em uma jornada perigosa, sem imaginar os riscos que enfrentará. Série baseada no best-seller de Lucy Clarke.</desc>
+    <category lang="pt">TV</category>
+  </programme>
+  <programme start="20260116234500 -0300" stop="20260117004500 -0300" channel="TV Bahia HD">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
     <category lang="pt">TV</category>
